@@ -2,12 +2,12 @@ package com.visualpathit.account;
 
 public class BadCode {
 
-    public boolean b1(int a) { return a == a; }
-    public boolean b2(int a) { return a == a; }
-    public boolean b3(int a) { return a == a; }
-    public boolean b4(int a) { return a == a; }
-    public boolean b5(int a) { return a == a; }
-    public boolean b6(int a) { return a == a; }
+    public boolean b1(int a) { return a == 0; }
+    public boolean b2(int a) { return a == 0; }
+    public boolean b3(int a) { return a == 0; }
+    public boolean b4(int a) { return a == 0; }
+    public boolean b5(int a) { return a == 0; }
+    public boolean b6(int a) { return a == 0; }
     public boolean b7(int a) { return a == a; }
     public boolean b8(int a) { return a == a; }
     public boolean b9(int a) { return a == a; }
